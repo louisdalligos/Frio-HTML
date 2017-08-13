@@ -46,3 +46,5 @@ Resources used on this project are shown below:
 
 
 Link to [ThemeForest](https://themeforest.net/item/frio-one-page-zurb-foundation-template/7298727) project.
+
+Link to [Demo](https://themeforest.net/item/frio-one-page-zurb-foundation-template/7298727) of the project.
